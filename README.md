@@ -3,7 +3,7 @@
 Segue a atividade de Leonardo Pelegrin Rocha referente a disciplina Qualidade e Testes de Software.
 ## Explicação
 No arquivo CalculadoraV2 segue a atividade Tema: Documentação Calculadora o qual foi realizado no Eclipse.                                                                                                                                                                             
-          No arquivo LoginScreenOhtt segue a atividade Tema: Tela de Login que também foi realizado no Eclipse.
+          No arquivo LoginScreenOhata segue a atividade Tema: Tela de Login que também foi realizado no Eclipse.
 ## Tema: Documentação Calculadora
 Classe Calculator.Java com sua documentação.
 ![image](https://github.com/LeonardoPelegrin/TddOhata/assets/110860762/2c4a10a3-720a-4b98-be47-41c6fe93901d)
